@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DrinkSync</string>
+    <string name="hint_peso">Seu Peso (Kg)</string>
+    <string name="hint_idade">Sua Idade</string>
+    <string name="text_button_calcular">Calcular Ingestão Diária</string>
+    <string name="text_button_lembrete">⏰ Lembrete</string>
+    <string name="text_button_alarme">🔔 Alarme</string>
+    <string name="text_hora">00</string>
+    <string name="text_dois_pontos">:</string>
+    <string name="text_minutos">00</string>
+</resources>
